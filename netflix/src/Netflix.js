@@ -16,3 +16,5 @@ class Netflix extends Component {
 }
 
 export default Netflix;
+
+// It looks like DisplayMovies is not called in this component. Make sure you import it and call it with <DisplayMovies/>
